@@ -28,7 +28,7 @@
     "lodash": "^4.17.5",
     "lodash-webpack-plugin": "^0.11.4",
     "netlify-cms": "^2.1.1",
-    "node-sass": "^4.10.0",
+    "node-sass": "^7.0.0",
     "pdfobject": "^2.1.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
